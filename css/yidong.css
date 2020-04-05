@@ -1,0 +1,109 @@
+@media screen and (max-width:768px) {
+	*{
+		margin:0;padding: 0;
+	}
+
+	html,body{
+		height: 100%;
+		width: 100%;
+	}
+	/*内容样式，使用flex布局*/
+	.content{
+		width: 15rem;
+		display: flex;
+  		flex-direction: column;
+ 		justify-content: space-around;
+  		align-items: center;
+  		/*height: 46rem;*/
+  		position: absolute;
+  		top:26%;
+}
+	/*搜索框总体样式*/
+	.baidu{
+		position: relative;
+		width: 14rem;
+		height: 2.6rem;
+		left: 50%;
+		transform: translateX(-50%);
+	}
+
+	.baidu-2{
+		height: 2.6rem;
+	}
+
+/*取消多级搜索，只保留百度*/
+	#Select-2{
+		position: absolute;
+		left: 0;
+	}
+
+	.Select-box-2{
+		display: none;
+		float: none;
+	}
+
+	.Select-box-2  li{
+		background-color: yellow;
+		display: none;
+		float: none;
+	}
+	/*输入框样式*/
+	#kw-2{
+		width: 10rem;
+		height: 1.2rem;
+		border:0;
+		position: absolute;
+		padding-left: 10px;
+	}
+	/*搜索框样式*/
+	#su-2 {
+	    width: 3rem;
+	    text-align: center;
+	    line-height: 0rem;
+	    position: absolute;
+	    background-color: blue;
+	    border-color: blue;
+	    right: 1rem;
+	    border-radius: 0;
+	    height: 1.2rem;
+	}
+	#su-2:hover{
+		background-color: blue;
+	}
+
+	#su-2:avtive{
+		background-color: blue;
+		box-shadow: none;	
+	}
+	
+	/*content下的所有div宽度*/
+	.content div{
+		width: 100%;
+	}
+	/*每个选择框的宽度*/
+	.content li{
+		width: 4.69rem;
+	}
+	/*放弃content外的footer*/
+	.footer{  
+		display: none;
+	}
+	/*移动端使用的footer*/
+	.footer1{
+		display: block;
+		text-align: center;
+		position: relative;
+		padding-top: 10px;
+		bottom: 0;
+		color:white;
+	}
+
+	input[type="button"], input[type="submit"], input[type="reset"] {
+
+	-webkit-appearance: none;
+
+	}
+
+	textarea {  -webkit-appearance: none;}  
+	
+}
