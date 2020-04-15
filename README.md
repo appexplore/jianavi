@@ -1,6 +1,6 @@
 # jianavi
 
-简约导航开源版，演示地址：https://www.jianavi.com
+简约导航开源版，演示地址：https://appexplore.github.io/jianavi/
 
 简约导航最初源自于小呆导航站长
 
