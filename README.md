@@ -6,6 +6,10 @@
 
 因此当简约导航发展到现在，我决定做些什么，于是便有了简约导航开源版
 
+### 界面截图
+
+![截图](https://raw.githubusercontent.com/appexplore/jianavi/master/%E7%95%8C%E9%9D%A2%E6%88%AA%E5%9B%BE.png)
+
 ### 版权事项
 
 除了保留页脚版权信息，其它地方可以随便改，请勿出售
