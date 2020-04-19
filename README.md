@@ -8,13 +8,13 @@
 
 ### 界面截图
 
-![截图](https://raw.githubusercontent.com/appexplore/jianavi/master/%E7%95%8C%E9%9D%A2%E6%88%AA%E5%9B%BE.png)
+![截图](https://ae01.alicdn.com/kf/Hf8c6c8b083734fc9bd73e334017995fcK.jpg)
 
 ### 版权事项
 
 除了保留页脚版权信息，其它地方可以随便改，请勿出售
 
-如果您想修改或删除下方版权信息，请打赏并留言您的网址 >> https://afdian.net/@appts
+如果您想修改或删除页面下方版权信息，请打赏并留言您的网址 >> https://afdian.net/@appts
 
 开源不易，感谢支持
 
@@ -35,3 +35,5 @@
 目前开源的版本和简约导航正在使用的版本不同，区别在于开源版并不支持自定义，未来简约导航迭代后会开源自定义版（自定义内容保存在本地）
 
 这是一个稳定的版本，可以放心使用
+
+我现在用的版本是：https://www.jianavi.com
