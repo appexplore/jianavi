@@ -3,8 +3,9 @@ body, ul, li, h1, h2, h3, h4, h5, h6, p, form, dl, dt, dd { margin: 0px; padding
 img { border-style: none;}
 li{ list-style: none; float: left}
 a{ text-decoration: none}
+<!-- 注意！为了优化演示站访问速度下方引用的是CDN上的背景图片文件地址，请修改为自己的背景图片文件地址 -->
 body {	
-    background-image: url(../img/01.jpg);
+    background-image: url(https://cdn.jsdelivr.net/gh/appexplore/jianavi/img/01.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
