@@ -5,7 +5,7 @@ li{ list-style: none; float: left}
 a{ text-decoration: none}
 <!-- 注意！为了优化演示站访问速度下方引用的是CDN上的背景图片文件地址，请修改为自己的背景图片文件地址 -->
 body {	
-    background-image: url(..//jianavi/img/01.jpg);
+    background-image: url(https://z3.ax1x.com/2021/08/02/fCQ6Fs.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
