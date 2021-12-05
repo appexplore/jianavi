@@ -47,3 +47,9 @@ https://ae01.alicdn.com/kf/Hf8c6c8b083734fc9bd73e334017995fcK.jpg
 感谢以下用户使用简约导航开源版并打赏支持
 
 https://yeyihan.eebbk.top/home.html
+
+https://www.huashengmi.top/
+
+http://aclick.cn/
+
+
