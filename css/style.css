@@ -3,9 +3,9 @@ body, ul, li, h1, h2, h3, h4, h5, h6, p, form, dl, dt, dd { margin: 0px; padding
 img { border-style: none;}
 li{ list-style: none; float: left}
 a{ text-decoration: none}
-<!-- 注意！下方引用的是存储在项目文件夹内的背景图片文件 -->
+<!-- 注意！下方引用的是存储在网络，而非项目文件夹内的背景图片文件 -->
 body {	
-	background-image: url("/img/01.jpg");
+	background-image: url(https://s1.ax1x.com/2023/03/11/ppKFn8x.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
