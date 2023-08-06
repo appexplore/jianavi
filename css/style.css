@@ -5,7 +5,7 @@ li{ list-style: none; float: left}
 a{ text-decoration: none}
 <!-- 注意！下方引用的是存储在网络，而非项目文件夹内的背景图片文件 -->
 body {	
-	background-image: url('../img/01.jpg');
+	background-image: url(../img/01.jpg);
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
