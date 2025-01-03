@@ -14,7 +14,7 @@ https://ae01.alicdn.com/kf/Hf8c6c8b083734fc9bd73e334017995fcK.jpg
 
 除了保留页脚版权信息中本项目的开源地址，其它地方可以随便改，请勿出售
 
-如果您想修改或删除页面下方版权信息中本项目的开源地址，请打赏并留言您的网址 >> https://afdian.net/@appts
+如果您想修改或删除页面下方版权信息中本项目的开源地址，请打赏并留言您的网址 >> [https://afdian.net/@appts](https://afdian.com/a/appts)
 
 开源不易，感谢支持，支持用户网址默认会添加到本页下方
 
