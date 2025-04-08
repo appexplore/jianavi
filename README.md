@@ -38,6 +38,10 @@ https://ae01.alicdn.com/kf/Hf8c6c8b083734fc9bd73e334017995fcK.jpg
 
 我现在用的版本是：https://www.jianavi.com
 
+### 二次开发
+以下是二次开发版本，感谢改进本项目
+优化页面显示，增加后台管理：https://github.com/SiverKing/siver_favorite
+
 ### 使用者
 
 感谢以下用户使用简约导航开源版并打赏支持
