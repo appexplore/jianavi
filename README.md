@@ -6,6 +6,12 @@
 
 因此当简约导航发展到现在，我决定做些什么，于是便有了简约导航开源版
 
+### 二次开发
+
+以下是二次开发版本，感谢改进本项目
+
+优化页面显示，增加后台管理：https://github.com/SiverKing/siver_favorite
+
 ### 界面截图
 
 https://ae01.alicdn.com/kf/Hf8c6c8b083734fc9bd73e334017995fcK.jpg
@@ -37,12 +43,6 @@ https://ae01.alicdn.com/kf/Hf8c6c8b083734fc9bd73e334017995fcK.jpg
 这是一个稳定的版本，可以放心使用
 
 我现在用的版本是：https://www.jianavi.com
-
-### 二次开发
-
-以下是二次开发版本，感谢改进本项目
-
-优化页面显示，增加后台管理：https://github.com/SiverKing/siver_favorite
 
 ### 使用者
 
